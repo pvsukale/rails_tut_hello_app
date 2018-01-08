@@ -9,3 +9,7 @@ cd rails_tut_hello_app
 bundle
 rails s
 ```
+
+## Heroku live demo 
+
+This app is live on [Heroku](https://arcane-mesa-42090.herokuapp.com/)
